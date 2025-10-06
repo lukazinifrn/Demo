@@ -1,0 +1,8 @@
+site_name: Demonstração
+theme:
+  name: material
+  language: pt
+
+plugins:
+    - search
+    - mermaid2
